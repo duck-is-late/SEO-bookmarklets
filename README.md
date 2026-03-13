@@ -1,8 +1,11 @@
-# Awesome GSC Regex Bookmarklets 🚀
+# GSC Regex Bookmarklets
 
-A curated collection of Google Search Console (GSC) Regex Bookmarklets. Drag these links directly to your bookmarks bar to instantly filter GSC queries for whatever domain you are currently browsing. 
+A curated collection of Google Search Console (GSC) Regex Bookmarklets. You can either download the full html file and upload in your browser och drag these links directly to your bookmarks bar. They let you instantly filter GSC queries for whatever domain you are currently browsing. 
 
-*Note: These bookmarklets automatically strip `www.` and target GSC "Domain Properties".*
+By <a href="https://www.linkedin.com/in/aleand/">Alexander Andersen</a>
+Inspired by <a href="https://www.linkedin.com/posts/daniel-foley-assertive_seo-tip-use-the-following-in-google-search-activity-7437497605279907841-lV2N">Daniel Foley Carter</a>
+
+*Note: These bookmarklets automatically strip `www.` and target GSC "Domain Properties".* - it doesn't work for url prefix since that uses a different url in search console.
 
 ---
 
