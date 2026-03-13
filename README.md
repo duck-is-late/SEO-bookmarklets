@@ -2,6 +2,8 @@
 
 A curated collection of Google Search Console (GSC) Regex Bookmarklets. You can either download the <a href="https://github.com/duck-is-late/SEO-bookmarklets/blob/main/gsc%20bookmarklets.html">full html file</a> and upload in your browser och drag these links directly to your bookmarks bar. They let you instantly filter GSC queries for whatever domain you are currently browsing. 
 
+If you find any errors, please let me know :)
+
 By <a href="https://www.linkedin.com/in/aleand/">Alexander Andersen</a>
 <br>
 Inspired by the following post by <a href="https://www.linkedin.com/posts/daniel-foley-assertive_seo-tip-use-the-following-in-google-search-activity-7437497605279907841-lV2N">Daniel Foley Carter</a>
